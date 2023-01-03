@@ -1,2 +1,5 @@
 # bootcamp_projects
-datarockie bootcamp
+datarockie bootcamp 6
+My name is Numtan, Sirikwan Unpanwat
+An entry-level data analyst
+
