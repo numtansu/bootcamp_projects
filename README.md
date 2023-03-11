@@ -16,3 +16,6 @@ The data camp consists 10 core skills
 - Python Programming
 - Essential Python for Data Analyst
 - Dashboard
+\
+\
+badge: https://api.badgr.io/public/assertions/YcNTCaf6QzyhTlCbe2BdwQ?identity__email=sirikwan.unp%40gmail.com
